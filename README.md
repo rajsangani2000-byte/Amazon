@@ -25,7 +25,6 @@ It includes product listings, shopping cart functionality, user-friendly UI, and
 * HTML5
 * CSS3
 * JavaScript
-* (Add React / Node.js / Firebase if you used them)
 
 ---
 
