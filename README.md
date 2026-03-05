@@ -31,7 +31,8 @@ It includes product listings, shopping cart functionality, user-friendly UI, and
 
 ## 📸 Screenshots
 
-![Uploading github_merged_showcase.png…]
+<img width="1200" height="2572" alt="github_merged_showcase" src="https://github.com/user-attachments/assets/df279a26-53d0-4462-b1dd-11de77921d55" />
+
 
 
 ---
