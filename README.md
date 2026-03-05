@@ -1,4 +1,4 @@
-<img width="1200" height="2572" alt="github_merged_showcase" src="https://github.com/user-attachments/assets/47857c5d-9c4a-4f0d-91f7-65f2f73e5568" /># 🛒 Amazon Clone – E-Commerce Website
+# 🛒 Amazon Clone – E-Commerce Website
 
 ## 📌 Project Description
 
