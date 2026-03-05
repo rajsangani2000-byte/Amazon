@@ -45,20 +45,3 @@ This project was built to:
 * Learn responsive web design
 
 ---
-
-## 📂 How to Run Locally
-
-```bash
-git clone https://github.com/your-username/your-repository-name.git
-cd your-repository-name
-open index.html
-```
-
----
-
-## 👨‍💻 Author
-
-Your Name
-GitHub: [https://github.com/your-username](https://github.com/your-username)
-
----
